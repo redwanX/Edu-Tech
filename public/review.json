@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "1",
+        "name": "Redwan Ahmed",
+        "email": "redwanistbd@gmail.com",
+        "ratings": "4",
+        "desc": "They manufacture best parts! I'm so happy"
+    },
+    {
+        "_id": "2",
+        "name": "Arafat",
+        "email": "arafatsikder@gmail.com",
+        "ratings": "4",
+        "desc": "thank you. you guys helps me alot!"
+    },
+    {
+        "_id": "3",
+        "name": "Tamim",
+        "email": "tamim@gmail.com",
+        "ratings": "5",
+        "desc": "Thank You. I receive my wheels. they are awesome"
+    }
+]
